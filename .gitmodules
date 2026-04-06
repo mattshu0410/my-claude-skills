@@ -1,0 +1,3 @@
+[submodule "scientific"]
+	path = scientific
+	url = https://github.com/mattshu0410/claude-scientific-skills.git
